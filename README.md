@@ -1,23 +1,9 @@
-<<<<<<< HEAD
-# web3-week-4
-Project from the fourth Web3 Week (03-jun-24). https://www.luiztools.com.br/w3w
+# Dapp-Flood-Help
+App elaborado durante o curso: Web3 Week - https://www.luiztools.com.br/w3w
 
 ## smart-contract
 Our FloodHelp.sol smart contract.
 
 ## dapp
-Our FloodHelp web3 frontend. (soon)
+Our FloodHelp web3 frontend.
 
-## More
-
-Live 01: https://youtube.com/live/OR5b05LvEV4?feature=share
-
-Live 02: https://youtube.com/live/Pr6Zu4L-M6U?feature=share
-
-Follow me on social networks for more: https://about.me/luiztools
-
-Receive my news on Telegram: https://t.me/luiznews
-=======
-# dapp-floodhelp-blockchain
-dapp-floodhelp-blockchain
->>>>>>> e6a3f43716df06cde2a3d88e519a14a9c07ce35f
